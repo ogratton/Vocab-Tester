@@ -1,0 +1,452 @@
+# Add your own words in following this format:
+# letter case is ignored in testing
+#
+# æ
+# þ
+# ð
+#
+# The Dream of the Rood
+swefn n: dream
+cyst f: best
+gemætan: to dream
+niht f: night
+syðþan: after; since
+reordberend m: speech-bearer
+rest f: resting-place; bed
+wunian: to dwell; be; live
+þencan: to think
+geseon: to see
+syllic: wonderful; marvellous
+treow n: tree
+lyft m f n: air; sky
+lædan: to be lifted; raised up
+leoht n: light
+bewindan: to wind around; wrap
+beam m: beam
+beorht: bright
+beacen n: sign
+begeotan: to sprinkle
+gimm m: jewel
+standan: to stand
+fæger: fair
+folde f: earth
+sceat m: region
+swylce: moreover; and also
+fif: five
+eaxlegespann n: cross-beam
+behealdan: to behold
+engel m: angel
+dryhten m: lord
+forðgesceaft f: creation
+huru: indeed; certainly; however
+fracod: wicked
+gealga m: gallows
+halig: holy
+gast m: spirit
+molde f: earth
+mære: renowned; great; glorious
+gesceaft f: creation
+syllic: wonderful; marvellous
+sigebeam m : tree of victory; wood of victory
+synn f: sin
+fah: stained; guilty
+forwundian: to wound badly
+wom m n: sin; stain
+geseon: to see
+wuldor n: glory
+wæd f: dress; clothing
+geweorðian: to honour; adorn
+wynn f: joy
+scinan: to shine
+gegyrwan: to  adorn
+gold n: gold
+gimm  m: gem; jewel
+habban: to have
+bewron: to cover; clothe
+weorðlice: worthily
+weald m: forest
+ongytan: to perceive
+magan: to be able
+earm : wretched
+ærgewin n: former struggle
+ærest: first
+onginnan: to begin
+swætan: to bleed
+swiðra: right
+healf f : half; side
+sorg f: sorrow
+gedrefan: to trouble; distress
+forht : afraid
+fæger: fair
+gesyhð f: sight; vision
+fus: eager; hastening; doomed
+beacen n: sign; symbol; standard
+wendan: to alter; change
+bleo n: colour
+hwilum: at times; sometimes
+wæta m: wetness; moisture
+besteman: to make wet
+beswyllan: to soak; drench
+swat n m : blood
+gang m: flow
+sinc n: treasure
+gegyrwan: to adorn
+hwæðre: however; yet; nevertheless
+licgan: to lie down; to lie dead
+lange hwile: for a long time
+behealdan: to behold; gaze at
+hrewocearig: sorrowful; troubled
+treow n: tree
+Hælend m.: Saviour
+oððæt: until
+hyran: to hear
+hleoðrian: to make a noise; speak
+onginnan: to begin
+sprecan: to speak
+wudu m.: wood; tree
+selest: best
+geara iu: very long ago
+gyta: yet; still
+gemunan: to remember
+aheawan: to cut down
+holt n.: wood; forest
+ende m.: end; edge
+astyrian: to remove
+stefn m.: root; stem
+geniman: to take; seize
+strang: strong
+feond m.: enemy 
+gewyrcan: to make; form
+wæfersyn f.: spectacle
+hatan: to command; order
+werg m.: criminal
+hebban: to raise up
+beran: to carry; bear
+beorn m.: warrior; man
+eaxl f.: shoulder
+beorg m.: hill; mountain
+asettan: to set; set up
+geæstnian: to fasten
+genog: enough
+geseon: to see
+frea m.: lord; master; the Lord
+mancynn n.: mankind
+efstan: to hasten
+elne micle: with great courage
+willan: to wish; desire
+gestigan: to climb up; ascend
+Dryhten m.: lord; the Lord
+ofer: over; against
+bugan: to bow
+berstan: to break
+bifian: to tremble
+eorðe f.: earth
+sceat m.: surface; region
+eall: all
+gefyllan: to fell; knock down
+fæste: firm(ly)
+standan: to stand
+ongyrwan: to strip; undress
+geong: young
+hæleð m.: hero; warrior; man
+strang: strong
+stiðmod: resolute; brave
+gestigan: to climb up; ascend
+gealga wk m: gallows
+heah: high
+modig: brave
+manig: many
+gesyhð: sight; vision
+willan: to wish; desire
+lysan: redeem; set free
+bifian: to tremble
+ymbclyppan: to embrace
+bugan : to bow
+feallan: to fall
+folde f.: earth; ground
+sculan: to have to
+Rod: Rood; Cross
+aræran: to raise up
+ahebban: to raise; lift
+rice: powerful
+cyning m.: king
+hlaford m.: lord
+hyldan: to bow; bend
+þurhdrifan: to drive through; pierce 
+deorc: dark 
+nægl m.: nail
+dolg n.: wound
+gesiene: visible
+inwidhlemm m. : malicious wound
+ænig: any
+sceððan: to injure
+bysmerian: to mock; revile
+unc: the two of us
+butu: both
+ætædere: together
+eall: entirely
+besteman: to make wet; drench
+begeotan: to drench; cover; cover with moisture
+guma wk m.: man
+side f.: side
+siððan: æfter
+gast m.: spirit
+onsendan: to send
+feala: many
+beorg m.: hill
+bebidan: to experience
+wrað: cruel
+wyrd: fate; event
+geseon: to see
+werud: troop; host
+þearle: severely; cruelly
+þenian: to stretch out
+þystro: darkness
+bewreon: to cover
+wolcen m./n.: cloud
+Wealdend m.: Ruler
+hræw n.: corpse
+sciru: bright; gleaming
+scima m.: radiance
+sceadu f.: shadow
+forð: forth
+gan: to go
+wann: dark
+wepan: to weep
+gesceaft f.: creation
+cwiðan: to lament
+fyll m.: fall; death
+fus: eager
+feorran: from afar
+cuman: to come
+Æþeling: prince
+behealdan: to behold
+sare: sorely
+sorg f.: sorrow
+gedrefan: to afflict
+hnigan: to bow down
+secg m.: man; warrior
+eaðmod: humble
+ellen: courage; strength
+geniman: to seize; take
+ahebban: to lift up
+hefig: heavy
+wite n.: torment
+hilderinc m.: warrior
+steam: moisture
+bedrifan: to cover; sprinkle
+stræl m/f: arrow
+forwundian: to wound severely
+alecgan: to lie down
+limwerig: weary of limb
+gestandan: to stand
+lic n.: body
+restan: to rest
+meðe: exhausted
+gewinn n.: battle; strife; conflict
+onginnan: to begin; proceed
+moldern n.: sepulchre; grave
+wyrcan: to make
+bana wk m: slayer
+ceorfan: to cut
+beorht: bright; shining
+stan m.: stone
+sigor m.: victory
+sorhleoð n.: song of sorrow; dirge
+galan: to sing
+earm: wretched
+æfentid: evening time
+siðian: to journey
+mære: famous; glorious; renowned
+þeoden m.: prince; lord
+mæte: small
+weorod m.: troop
+greotan: to weep
+staðol m.: position
+stefn: voice
+gewitan: to go
+hilderinc m.: warrior
+hræw m.n.: body; corpse
+colian: to cool
+fæger: beautiful; fair
+feorgbold n.: dwelling of life; body
+fyllan : to fell
+onginnan: to begin
+egeslic: terrible
+wyrd f.: fate; experience
+bedelfan: to bury
+seað m.: pit
+Dryhten m.: Lord
+gefrinan: to find out about; hear
+gyrwan: to deck; adorn
+magan: to be able
+gehyran: o hear; understand
+hæleð m.: man; hero; warrior
+leofa: beloved; dear
+weorc n.: work
+bealuware m.pl: evil men
+gebidan: to experience; endure
+sar: grevious; sore
+sorg f. : sorrow; grief
+sæl m.f.: time
+weorðian: to honour
+wide and side: far and wide
+molde f.: earth
+mære: renowned
+gesceaft f.: creation
+gebiddan: to pray
+beacen n.: sign; symbol; beacon
+bearn n.: child
+þrowian: to suffer
+for þan: therefore; and so
+þrymfæst: glorious
+hlifian: to tower
+hælan: to save; to heal
+magan: to be able
+æghwylc: each
+an: one
+egesa wk m.: awe
+iu: long ago
+weorðan: to become; be
+wite n.: torment
+heardost: hardest; most grievous 
+leode m. f. pl: people
+laðost: most hateful
+ær þan: before
+lif n.: life
+weg m.: way
+riht: right
+geryman: to open
+reordberend m.: speechbearer
+geweorðian: to honour
+wuldor n.: glory
+Ealdor m.: prince; chief
+holtwudu m.: wood/tree of the forest
+heofonrice n.: heavenly kingdom
+Weard m.: Guardian
+swylce swa: just as
+modor f.: mother
+eac: also
+Marian sylfe: Mary herself
+for: before
+wif n.: woman
+cynn n.: race; kind
+hatan: to command; order
+gesyhð f.: sight; vision
+secgan: to say; tell
+onwreon: to reveal; disclose
+beam m.: tree
+þrowian: to suffer
+synn f.: sin
+ealdewyrht f. n. : deed of old; former action
+byrigan: to taste
+hwæðere: however; yet
+arisan: to arise
+micel: great
+miht f.: power; might
+astigan: to ascend; proceed
+hider: hither
+fundian: to set out
+middangeard m. : world; earth
+secan: to seek
+domdæg m.: day of judgement; Doomsday
+engel m.: angel
+deman: to judge
+dom m.: judgement; doom
+geweald n.: power; control
+an: one 
+gehwylc: each
+ærur: earlier; formerly
+læne: transitory
+geearnian: to earn; deserve
+unforht: fearless
+wesan: to be
+Wealdend m.: ruler
+frinan: to ask
+mænigo f.: multitude
+Dryhten m.: Lord
+nama wk m.: name
+onbyrigan: to taste
+forhtian: to be afraid
+fea adv.: little
+onginnan: to begin
+cweðan: to say; speak
+anforht: afraid
+selest: best
+rice n.: kingdom
+gesecan: to seek
+eorðwege m.: earth
+æghwylc: each
+sawol f.: soul
+wunian: to dwell
+gebiddan: to pray
+mod n.: spirit; mind
+ellen n. : courage; strength
+ana: alone
+mæte: small; limited
+weorod n.: troop; company
+modsefa wk m: heart; spirit
+afysan: to impel
+forðweg m.: way forth; departure 
+feala: many
+gebidan: to experience; await
+langunghwil f.: time of longing
+hyht m.: hopeful joy
+sigebeam m.: tree of victory
+secan: to seek; search for
+motan: to be allowed to
+oftor: more often
+weorþian: honour
+willa wk m.: will; desire; pleasure; delight
+mundbyrd f. : protection; hope of protection
+gerihtan: to correct; direct
+nah: do not have
+rice adj.: powerful; great
+gerihtan: to correct; direct
+nah: do not have
+rice adj.: powerful; great
+folde f.: earth
+heonon: hence; from here
+gewitan: to depart
+dream m. : joy
+wuldor n. : glory
+heofon m.: heaven
+Heahfæder m.: high father; God the Father
+wunian: to dwell
+wenan: to think; expect; look to
+gehwylc: each
+sceawian: see; behold; look upon
+læne: transitory
+fetian: to fetch
+settan: to set down; establish
+symbel n.: feast
+singal: everlasting; continual
+asettan: to set; set up
+syþþan: afterwards
+motan: to be allowed to
+halig adj=n: holy; holy one; saint
+brucan: to enjoy; benefit from
+si: to be
+þrowian: to suffer
+gealgtreo n.: gallows-tree; cross
+guma wk m.: man
+onlysan: to redeem; set free
+forgiefan: to give
+ham m.: home
+hiht m.: hopeful joy
+niwian: to renew
+blæd m.: glory; blessing
+bryne m. : burning; fire
+þolian: to suffer; endure
+sigorfæst: victorious
+siðfæt m.: journey; expedition
+spedig: successful
+menigu f.: multitude
+gast m. : spirit; soul
+weorod n.: troop; company
+rice n.: kingdom
+Anwealda wk m.: ruler; Lord
+engel m.: angel
+halig adj=n: holy; holy one; saint
+Wealdend m.: ruler
+eðel m.: homeland; home

@@ -1,0 +1,22 @@
+# Add your own words in following this format:
+# letter case is ignored in testing
+#
+# æ
+# þ
+# ð
+#
+# Cynewulf and Cyneheard (first half)
+benam: deprived; deprived of
+adræfde: drove out; exiled
+on Andred: into the weald
+wundade: lived
+Pryfetes flodan: the stream at Privett; stream at Privett
+wræc: avenged
+wrecan: to avenge; to drive; to punish
+haten: called
+geasode: discovered
+but utan beeode: surrounded the outside chamber
+ongeat: realised
+locude: saw; locked (eyes on)
+gehwelcum: each
+geþicgean: accept

@@ -1,0 +1,10 @@
+fly: insect
+fly: verb
+blue: colour
+blue: sad
+bob: builder
+bob: float
+green: colour
+green: naive
+green: colour
+green: colour
